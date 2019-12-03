@@ -1,0 +1,11 @@
+﻿  text.c
+e:\学习代码\array operating\array operating\text.c(8): warning C4047: “=”:“int *”与“int”的间接级别不同
+e:\学习代码\array operating\array operating\text.c(25): warning C4047: “=”:“int”与“int *”的间接级别不同
+e:\学习代码\array operating\array operating\text.c(27): warning C4047: “=”:“int *”与“int”的间接级别不同
+e:\学习代码\array operating\array operating\text.c(34): warning C4047: “函数”:“int **”与“int (*)[10]”的间接级别不同
+e:\学习代码\array operating\array operating\text.c(34): warning C4024: “init”: 形参和实参 1 的类型不同
+e:\学习代码\array operating\array operating\text.c(40): warning C4047: “函数”:“int **”与“int (*)[10]”的间接级别不同
+e:\学习代码\array operating\array operating\text.c(40): warning C4024: “reverse”: 形参和实参 1 的类型不同
+e:\学习代码\array operating\array operating\text.c(45): warning C4047: “函数”:“int **”与“int (*)[10]”的间接级别不同
+e:\学习代码\array operating\array operating\text.c(45): warning C4024: “empty”: 形参和实参 1 的类型不同
+  array operating.vcxproj -> E:\学习代码\array operating\Debug\array operating.exe
