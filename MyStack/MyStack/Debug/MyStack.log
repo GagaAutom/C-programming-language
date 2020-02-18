@@ -1,0 +1,5 @@
+﻿  Stack.c
+e:\学习代码\mystack\mystack\stack.c(58): warning C4047: “=”:“SElemType *”与“SElemType”的间接级别不同
+e:\学习代码\mystack\mystack\stack.c(127): warning C4013: “system”未定义；假设外部返回 int
+e:\学习代码\mystack\mystack\stack.c(121): warning C4101: “m”: 未引用的局部变量
+  MyStack.vcxproj -> E:\学习代码\MyStack\Debug\MyStack.exe
