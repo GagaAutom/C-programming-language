@@ -1,5 +1,0 @@
-﻿  strlen.c
-e:\学习代码\strlen\strlen\strlen.c(5): warning C4142: "strlen": 类型的良性重定义
-  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(219): note: 参见“strlen”的声明
-e:\学习代码\strlen\strlen\strlen.c(5): warning C4028: 形参 1 与声明不同
-  strlen.vcxproj -> E:\学习代码\strlen\Debug\strlen.exe

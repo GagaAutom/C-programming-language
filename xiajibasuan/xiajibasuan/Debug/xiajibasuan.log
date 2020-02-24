@@ -1,5 +1,0 @@
-﻿  text.c
-e:\学习代码\xiajibasuan\xiajibasuan\text.c(8): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
-e:\学习代码\xiajibasuan\xiajibasuan\text.c(11): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
-e:\学习代码\xiajibasuan\xiajibasuan\text.c(16): warning C4013: “system”未定义；假设外部返回 int
-  xiajibasuan.vcxproj -> E:\学习代码\xiajibasuan\Debug\xiajibasuan.exe

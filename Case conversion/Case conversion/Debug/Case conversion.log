@@ -1,3 +1,0 @@
-﻿  case.c
-e:\学习代码\case conversion\case conversion\case.c(10): warning C4013: “gets”未定义；假设外部返回 int
-  Case conversion.vcxproj -> E:\学习代码\Case conversion\Debug\Case conversion.exe

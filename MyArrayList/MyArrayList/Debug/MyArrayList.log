@@ -1,5 +1,0 @@
-﻿  MyArrayList.c
-e:\学习代码\myarraylist\myarraylist\myarraylist.c(1): warning C4081: 应输入“newline”；找到“;”
-e:\学习代码\myarraylist\myarraylist\myarraylist.c(106): warning C4013: “system”未定义；假设外部返回 int
-e:\学习代码\myarraylist\myarraylist\myarraylist.c(86): warning C4715: “ListLocate”: 不是所有的控件路径都返回值
-  MyArrayList.vcxproj -> E:\学习代码\MyArrayList\Debug\MyArrayList.exe
