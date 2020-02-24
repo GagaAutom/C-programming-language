@@ -1,0 +1,3 @@
+﻿  print.c
+e:\学习代码\print\print\print.c(10): warning C4716: “print”: 必须返回一个值
+  print.vcxproj -> E:\学习代码\print\Debug\print.exe
