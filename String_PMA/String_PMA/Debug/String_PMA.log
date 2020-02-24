@@ -1,0 +1,4 @@
+﻿  string.c
+e:\学习代码\string_pma\string_pma\string.c(71): warning C4013: “gets”未定义；假设外部返回 int
+e:\学习代码\string_pma\string_pma\string.c(91): warning C4013: “system”未定义；假设外部返回 int
+  String_PMA.vcxproj -> E:\学习代码\String_PMA\Debug\String_PMA.exe
