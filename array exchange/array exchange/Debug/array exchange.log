@@ -1,0 +1,7 @@
+﻿  text.c
+e:\学习代码\array exchange\array exchange\text.c(26): warning C4047: “函数”:“int *”与“int (*)[10]”的间接级别不同
+e:\学习代码\array exchange\array exchange\text.c(26): warning C4024: “exch”: 形参和实参 1 的类型不同
+e:\学习代码\array exchange\array exchange\text.c(26): warning C4024: “exch”: 形参和实参 2 的类型不同
+e:\学习代码\array exchange\array exchange\text.c(37): warning C4013: “system”未定义；假设外部返回 int
+e:\学习代码\array exchange\array exchange\text.c(13): warning C4716: “exch”: 必须返回一个值
+  array exchange.vcxproj -> E:\学习代码\array exchange\Debug\array exchange.exe
