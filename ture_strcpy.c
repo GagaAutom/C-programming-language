@@ -18,7 +18,7 @@ char *my_strcpy(char *dest, const char*src)
 int main()
 {
 	char str1[20];
-	strcpy(str1, "To be ");
+	my_strcpy(str1, "To be ");
 	puts(str1);
 	system("pause");
 	return 0;
