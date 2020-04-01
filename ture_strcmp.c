@@ -22,7 +22,7 @@ int main()
 	int n;
 	puts("Looking for R2 astromech droids...");
 	for (n = 0; n < 3; n++)
-		if (strcmp(str[n], "R2D2") == 0)
+		if (my_strcmp(str[n], "R2D2") == 0)
 		{
 			printf("found %s\n", str[n]);
 		}
