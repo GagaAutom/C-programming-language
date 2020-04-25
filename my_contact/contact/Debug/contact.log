@@ -1,0 +1,7 @@
+﻿  contact.c
+e:\学习代码\contact\contact\contact.c(26): warning C4013: “CheckFullAndRe”未定义；假设外部返回 int
+e:\学习代码\contact\contact\contact.c(35): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+  e:\学习代码\contact\contact\contact.c(35): note: 请考虑在格式字符串中使用“%hd”
+  main.c
+  正在生成代码...
+  contact.vcxproj -> E:\学习代码\contact\Debug\contact.exe
